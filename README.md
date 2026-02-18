@@ -2,7 +2,8 @@
 
 A clean and modern navigation menu built with Tailwind CSS, featuring notification badges and Font Awesome icons.
 
-![Navigation Menu Preview](preview.png)
+<img width="1343" height="60" alt="Screenshot 2026-02-18 120506" src="https://github.com/user-attachments/assets/6fe62590-0da0-49f8-8015-a4c0bcad8d69" />
+
 
 ## Features
 
