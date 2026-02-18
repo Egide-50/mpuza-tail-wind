@@ -197,4 +197,4 @@ For issues or questions, please open an issue in the repository.
 <img width="1356" height="712" alt="Screenshot 2026-02-18 120229" src="https://github.com/user-attachments/assets/ca5a7594-9a76-410a-910d-b4c899d0ef71" />
 
 
-**Made with ❤️ using Tailwind CSS**
+**Made with IRASUBIZA Egide using Tailwind CSS**
